@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import MainLayout from './components/Layouts/MainLayout/MainLayout';
-import Landing from './components/Landing/Landing';
+import MainLayout from './Layouts/MainLayout';
+import Landing from './Landing/Landing';
 
 function App() {
   return (
