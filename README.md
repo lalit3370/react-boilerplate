@@ -1,2 +1,2 @@
-# news-app
-React app for showing news, using 3rd party news api
+# REACT BOILERPLATE
+webpack 5 + react 18 boilerplate setup
